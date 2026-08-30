@@ -109,7 +109,16 @@ async def get_document_status(doc_id: str):
 
 if __name__ == "__main__":
     # Validate config before running
+    import os
+    port = int(os.getenv("PORT", 8000))
     config.validate()
+    print("\n🚀 Starting DocuMind AI server...")
+    uvicorn.run(
+        "app.main:app",
+        host="0.0.0.0",
+        port=port,
+        reload=False
+    )
     
     # Run server
     print("\n🚀 Starting DocuMind AI server...")
