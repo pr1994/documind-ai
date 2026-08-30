@@ -253,7 +253,7 @@ MIT License - See [LICENSE](LICENSE) file for details
 
 **Pritam** - AI/ML Engineer  
 - GitHub: [@pr1994](https://github.com/pr1994)
-- Background: 10+ years Oracle WebCenter Content → AI/ML transition via Scaler Academy
+- Background: 10+ years Oracle WebCenter Content → AI/ML transition via Learning
 
 ---
 
