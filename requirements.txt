@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+streamlit
+python-dotenv
+groq
+qdrant-client
+sentence-transformers
+pydantic
+PyPDF2
+pdfplumber
+python-docx
+requests
+langchain
+langchain-groq
+langgraph
